@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b97307fb-2122-4fd3-8caa-d2e384b026da" name="Changes" comment="Add 16 task">
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/task16/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/task16/comparators/AuthorTitleComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/task16/comparators/AuthorTitlePriceComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/task16/comparators/TitleAuthorComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/task16/comparators/TitleComparator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/by/bsuir/task12/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/task12/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/bsuir/task13/ProgrammerBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/task13/ProgrammerBook.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -284,7 +280,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665204836022</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Add 16 task">
+      <created>1665206052469</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1665206052469</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

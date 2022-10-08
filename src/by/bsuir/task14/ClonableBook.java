@@ -7,6 +7,7 @@ public class ClonableBook extends Book {
         super(title, author, price);
     }
 
+    @Override
     public Object clone(){
         return new ClonableBook(this.getTitle(), this.getAuthor(), this.getPrice());
     }

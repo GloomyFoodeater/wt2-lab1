@@ -12,6 +12,7 @@ public class Book {
         this.price = price;
     }
 
+    @Override
     public boolean equals(Object obj) {
         Book book = (Book) obj;
         return (this.title.equals(book.title) &&
@@ -19,13 +20,15 @@ public class Book {
                 this.price == book.price);
     }
 
+    @Override
     public String toString() {
-        return "Title: " + title + "\n" +
-                "Author: " + author + "\n" +
-                "Price: " + price + "\n" +
+        return "Title: " + title + ", " +
+                "Author: " + author + ", " +
+                "Price: " + price + ", " +
                 "Edition: " + edition;
     }
 
+    @Override
     public int hashCode() {
         return title.hashCode() + author.hashCode() + price;
     }
