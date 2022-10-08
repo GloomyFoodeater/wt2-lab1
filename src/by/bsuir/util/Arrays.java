@@ -22,4 +22,16 @@ public class Arrays {
         }
     }
 
+    public static void printMatrix(int[][] matrix) {
+        int n = matrix.length;
+        System.out.println("Matrix:");
+        for (int[] ints : matrix) {
+            System.out.print("|");
+            for (int j = 0; j < n - 1; j++) {
+                System.out.print(ints[j] + " ");
+            }
+            System.out.print(ints[n - 1]);
+            System.out.println("|");
+        }
+    }
 }
