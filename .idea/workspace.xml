@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b97307fb-2122-4fd3-8caa-d2e384b026da" name="Changes" comment="Add empty project">
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/task2/Main.java" afterDir="false" />
+    <list default="true" id="b97307fb-2122-4fd3-8caa-d2e384b026da" name="Changes" comment="Add 2 task">
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/task3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/task3/TangentTable.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/by/bsuir/util/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/util/Math.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +52,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665192734878</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add 1 task">
+      <created>1665192867945</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665192867945</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add 2 task">
+      <created>1665192963975</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665192963975</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,6 +82,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add empty project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add empty project" />
+    <MESSAGE value="Add 1 task" />
+    <MESSAGE value="Add 2 task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add 2 task" />
   </component>
 </project>
