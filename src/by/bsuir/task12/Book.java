@@ -1,9 +1,9 @@
 package by.bsuir.task12;
 
 public class Book {
-    private final String title;
-    private final String author;
-    private final int price;
+    private String title;
+    private String author;
+    private int price;
     private static int edition;
 
     public Book(String title, String author, int price) {
