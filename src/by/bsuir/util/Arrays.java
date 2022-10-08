@@ -34,4 +34,23 @@ public class Arrays {
             System.out.println("|");
         }
     }
+
+    public static void shellSort(int[] array) {
+        int n = array.length;
+
+        // Iteration over steps (N/2, N/4, N/8, ..., 1)
+        for (int step = n / 2; step > 0; step /= 2) {
+
+            // Insertion sort
+            for (int i = step; i < n; i++) {
+                int key = array[i];
+                int j = i;
+                while (j >= step && array[j - step] > key) {
+                    array[j] = array[j - step];
+                    j -= step;
+                }
+                array[j] = key;
+            }
+        }
+    }
 }
