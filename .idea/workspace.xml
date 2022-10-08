@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b97307fb-2122-4fd3-8caa-d2e384b026da" name="Changes" comment="Add 6 task">
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/task6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/task7/Main.java" afterDir="false" />
+    <list default="true" id="b97307fb-2122-4fd3-8caa-d2e384b026da" name="Changes" comment="Add 9 task">
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/task9/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/task9/Basket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/task9/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/task9/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bsuir/util/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/util/Arrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -34,10 +39,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Учёба/5 сем/ВТ/wt2-lab1",
+    "settings.editor.selected.configurable": "MavenSettings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.by.bsuir.task7.Main">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="by.bsuir.task6.Main" />
       <module name="wt2-lab1" />
@@ -64,8 +71,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="by.bsuir.task9.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.task9.Main" />
+      <module name="wt2-lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.bsuir.task9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.by.bsuir.task9.Main" />
         <item itemvalue="Application.by.bsuir.task7.Main" />
         <item itemvalue="Application.Main" />
       </list>
@@ -122,7 +143,28 @@
       <option name="project" value="LOCAL" />
       <updated>1665193737078</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add 6 task">
+      <created>1665194586987</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665194586987</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add 7 task">
+      <created>1665194752628</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1665194752628</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add 8 task">
+      <created>1665194833748</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1665194833748</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,6 +186,9 @@
     <MESSAGE value="Add 4 task" />
     <MESSAGE value="Add 5 task" />
     <MESSAGE value="Add 6 task" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add 6 task" />
+    <MESSAGE value="Add 7 task" />
+    <MESSAGE value="Add 8 task" />
+    <MESSAGE value="Add 9 task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add 9 task" />
   </component>
 </project>
