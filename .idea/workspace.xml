@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b97307fb-2122-4fd3-8caa-d2e384b026da" name="Changes" comment="Add 14 task">
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/task15/ComparableBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/task15/Main.java" afterDir="false" />
+    <list default="true" id="b97307fb-2122-4fd3-8caa-d2e384b026da" name="Changes" comment="Add 16 task">
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/task16/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/task16/comparators/AuthorTitleComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/task16/comparators/AuthorTitlePriceComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/task16/comparators/TitleAuthorComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/task16/comparators/TitleComparator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/by/bsuir/task12/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/task12/Book.java" afterDir="false" />
     </list>
@@ -19,8 +22,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -274,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665203653172</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Add 15 task">
+      <created>1665204836022</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1665204836022</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -306,7 +316,9 @@
     <MESSAGE value="Fix fields in task 12" />
     <MESSAGE value="Add 13 task" />
     <MESSAGE value="Add 14 task" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add 14 task" />
+    <MESSAGE value="Add 15 task" />
+    <MESSAGE value="Add 16 task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add 16 task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
