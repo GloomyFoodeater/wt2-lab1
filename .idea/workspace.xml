@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b97307fb-2122-4fd3-8caa-d2e384b026da" name="Changes" comment="Add 9 task">
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/task9/Ball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/task9/Basket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/task9/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/task9/Main.java" afterDir="false" />
+    <list default="true" id="b97307fb-2122-4fd3-8caa-d2e384b026da" name="Changes" comment="Add 10 task">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,10 +36,15 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Учёба/5 сем/ВТ/wt2-lab1",
+    "last_opened_file_path": "D:/Учёба/5 сем/ВТ/wt2-lab1/src/by/bsuir/task9",
     "settings.editor.selected.configurable": "MavenSettings"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Учёба\5 сем\ВТ\wt2-lab1\src\by\bsuir\task9" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="by.bsuir.task6.Main" />
@@ -164,7 +165,35 @@
       <option name="project" value="LOCAL" />
       <updated>1665194833748</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add 9 task">
+      <created>1665198404558</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1665198404558</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add 10 task">
+      <created>1665198440026</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1665198440026</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add 10 task">
+      <created>1665198635815</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1665198635815</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Add 10 task">
+      <created>1665198654865</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1665198654865</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,6 +218,7 @@
     <MESSAGE value="Add 7 task" />
     <MESSAGE value="Add 8 task" />
     <MESSAGE value="Add 9 task" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add 9 task" />
+    <MESSAGE value="Add 10 task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add 10 task" />
   </component>
 </project>
